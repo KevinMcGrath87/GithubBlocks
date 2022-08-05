@@ -1,0 +1,48 @@
+#largeContainer {
+    background-color:lightgray;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding:20px;
+
+
+}
+div#largeContainer div {
+    height:100px;
+    display: flex;
+    align-items:center;
+    margin-top:20px;
+    padding:10px;
+}
+
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    color:darkslateblue;
+    
+
+
+}
+img {
+    height:100px;
+}
+
+#top {
+    background-color: aqua;
+    justify-content: space-between;
+
+
+
+}
+#middle {
+    background-color: pink;
+    justify-content: space-evenly;
+
+
+
+}
+#bottom {
+    background-color: white;
+    justify-content: space-between;
+
+
+}
